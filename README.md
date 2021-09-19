@@ -11,4 +11,4 @@
 
 ## Professores
 - [Jessica Santana](https://github.com/jeafsantana)
-- [Adriano Santos]
+- [Adriano Santos](https://github.com/didisouzacosta)
